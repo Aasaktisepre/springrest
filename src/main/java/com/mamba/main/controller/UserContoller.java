@@ -66,7 +66,7 @@ public class UserContoller
 
         // Creating a response JSON
         Map<String, String> response = new HashMap<>();
-        response.put("message", "User  is deleted bro  successfully.");
+        response.put("message", "User  is deleted bro where are yiu  successfully.");
 
         return ResponseEntity.ok(response);
     }
